@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Product 1",
+        "price": 10,
+        "image": "photo3.jpg"
+    },
+    {
+        "name": "Product 2",
+        "price": 20,
+        "image": "photo3.jpg"
+    },
+    {
+        "name": "Product 3",
+        "price": 15,
+        "image": "photo3.jpg"
+    },
+    {
+        "name": "Product 4",
+        "price": 15,
+        "image": "photo3.jpg"
+    },
+    {
+        "name": "Product 5",
+        "price": 15,
+        "image": "photo3.jpg"
+    },   {
+        "name": "Product 6",
+        "price": 15,
+        "image": "photo3.jpg"
+    },   {
+        "name": "Product 7",
+        "price": 15,
+        "image": "photo3.jpg"
+    }
+
+]
